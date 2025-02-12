@@ -1,0 +1,460 @@
+[INFO ] 2024-11-19 17:02:35.998 [main] TC01_AccountRegTest - ******Starting The Test Cases*******
+[INFO ] 2024-11-19 17:02:36.150 [main] TC01_AccountRegTest - **Click on My Account Link**
+[INFO ] 2024-11-19 17:02:36.796 [main] TC01_AccountRegTest - **Click on Register**
+[INFO ] 2024-11-19 17:02:36.812 [main] TC01_AccountRegTest - **Providing Customer Details**
+[INFO ] 2024-11-19 17:02:38.130 [main] TC01_AccountRegTest - ***Validating expected message.***
+[INFO ] 2024-11-19 17:02:38.189 [main] TC01_AccountRegTest - ***Test is Finished***
+[INFO ] 2024-11-19 17:07:01.562 [main] TC01_AccountRegTest - ******Starting The Test Cases*******
+[INFO ] 2024-11-19 17:07:01.669 [main] TC01_AccountRegTest - **Click on My Account Link**
+[INFO ] 2024-11-19 17:07:02.259 [main] TC01_AccountRegTest - **Click on Register**
+[INFO ] 2024-11-19 17:07:02.260 [main] TC01_AccountRegTest - **Providing Customer Details**
+[INFO ] 2024-11-19 17:07:03.564 [main] TC01_AccountRegTest - ***Validating expected message.***
+[INFO ] 2024-11-19 17:07:03.619 [main] TC01_AccountRegTest - ***Test is Finished***
+[INFO ] 2024-11-19 17:07:11.315 [main] TC01_AccountRegTest - ******Starting The Test Cases*******
+[INFO ] 2024-11-19 17:07:11.590 [main] TC01_AccountRegTest - **Click on My Account Link**
+[INFO ] 2024-11-19 17:07:12.354 [main] TC01_AccountRegTest - **Click on Register**
+[INFO ] 2024-11-19 17:07:12.355 [main] TC01_AccountRegTest - **Providing Customer Details**
+[INFO ] 2024-11-19 17:07:13.661 [main] TC01_AccountRegTest - ***Validating expected message.***
+[INFO ] 2024-11-19 17:07:13.681 [main] TC01_AccountRegTest - ***Test is Finished***
+[INFO ] 2024-11-19 17:07:20.845 [main] TC01_AccountRegTest - ******Starting The Test Cases*******
+[INFO ] 2024-11-19 17:07:20.990 [main] TC01_AccountRegTest - **Click on My Account Link**
+[INFO ] 2024-11-19 17:07:21.621 [main] TC01_AccountRegTest - **Click on Register**
+[INFO ] 2024-11-19 17:07:21.622 [main] TC01_AccountRegTest - **Providing Customer Details**
+[INFO ] 2024-11-19 17:07:23.057 [main] TC01_AccountRegTest - ***Validating expected message.***
+[INFO ] 2024-11-19 17:07:23.099 [main] TC01_AccountRegTest - ***Test is Finished***
+[INFO ] 2024-11-19 17:07:50.896 [TestNG-tests-1] TC01_AccountRegTest - ******Starting The Test Cases*******
+[INFO ] 2024-11-19 17:07:51.069 [TestNG-tests-3] TC01_AccountRegTest - ******Starting The Test Cases*******
+[INFO ] 2024-11-19 17:07:51.182 [TestNG-tests-1] TC01_AccountRegTest - **Click on My Account Link**
+[INFO ] 2024-11-19 17:07:51.233 [TestNG-tests-3] TC01_AccountRegTest - **Click on My Account Link**
+[INFO ] 2024-11-19 17:07:51.997 [TestNG-tests-1] TC01_AccountRegTest - **Click on Register**
+[INFO ] 2024-11-19 17:07:51.999 [TestNG-tests-1] TC01_AccountRegTest - **Providing Customer Details**
+[INFO ] 2024-11-19 17:07:52.122 [TestNG-tests-3] TC01_AccountRegTest - **Click on Register**
+[INFO ] 2024-11-19 17:07:52.125 [TestNG-tests-3] TC01_AccountRegTest - **Providing Customer Details**
+[INFO ] 2024-11-19 17:07:53.611 [TestNG-tests-1] TC01_AccountRegTest - ***Validating expected message.***
+[INFO ] 2024-11-19 17:07:53.649 [TestNG-tests-1] TC01_AccountRegTest - ***Test is Finished***
+[INFO ] 2024-11-19 17:07:53.934 [TestNG-tests-3] TC01_AccountRegTest - ***Validating expected message.***
+[INFO ] 2024-11-19 17:07:53.998 [TestNG-tests-3] TC01_AccountRegTest - ***Test is Finished***
+[INFO ] 2024-11-19 17:07:54.776 [TestNG-tests-2] TC01_AccountRegTest - ******Starting The Test Cases*******
+[INFO ] 2024-11-19 17:07:55.080 [TestNG-tests-2] TC01_AccountRegTest - **Click on My Account Link**
+[INFO ] 2024-11-19 17:07:55.797 [TestNG-tests-2] TC01_AccountRegTest - **Click on Register**
+[INFO ] 2024-11-19 17:07:55.798 [TestNG-tests-2] TC01_AccountRegTest - **Providing Customer Details**
+[INFO ] 2024-11-19 17:07:56.906 [TestNG-tests-2] TC01_AccountRegTest - ***Validating expected message.***
+[INFO ] 2024-11-19 17:07:56.925 [TestNG-tests-2] TC01_AccountRegTest - ***Test is Finished***
+[INFO ] 2024-11-19 17:50:49.009 [main] TC01_AccountRegTest - ******Starting The Test Cases*******
+[INFO ] 2024-11-19 17:50:49.139 [main] TC01_AccountRegTest - **Click on My Account Link**
+[INFO ] 2024-11-19 17:50:49.709 [main] TC01_AccountRegTest - **Click on Register**
+[INFO ] 2024-11-19 17:50:49.712 [main] TC01_AccountRegTest - **Providing Customer Details**
+[INFO ] 2024-11-19 17:50:51.023 [main] TC01_AccountRegTest - ***Validating expected message.***
+[INFO ] 2024-11-19 17:50:51.078 [main] TC01_AccountRegTest - ***Test is Finished***
+[INFO ] 2024-11-19 18:21:51.493 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[INFO ] 2024-11-19 18:22:43.880 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[INFO ] 2024-11-19 18:25:30.771 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[INFO ] 2024-11-19 18:28:13.006 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[INFO ] 2024-11-19 18:29:42.090 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[INFO ] 2024-11-19 18:30:19.695 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[INFO ] 2024-11-19 18:31:33.080 [main] TC01_AccountRegTest - ******Starting The Test Cases*******
+[INFO ] 2024-11-19 18:31:33.215 [main] TC01_AccountRegTest - **Click on My Account Link**
+[INFO ] 2024-11-19 18:31:33.787 [main] TC01_AccountRegTest - **Click on Register**
+[INFO ] 2024-11-19 18:31:33.788 [main] TC01_AccountRegTest - **Providing Customer Details**
+[INFO ] 2024-11-19 18:31:35.056 [main] TC01_AccountRegTest - ***Validating expected message.***
+[INFO ] 2024-11-19 18:31:35.115 [main] TC01_AccountRegTest - ***Test is Finished***
+[INFO ] 2024-11-19 18:31:57.594 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[INFO ] 2024-11-19 18:34:22.175 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[INFO ] 2024-11-19 18:35:55.627 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[INFO ] 2024-11-19 18:36:32.751 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[INFO ] 2024-11-19 18:38:42.628 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[INFO ] 2024-11-19 18:42:11.543 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[INFO ] 2024-11-19 18:42:48.718 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[INFO ] 2024-11-19 18:43:53.114 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[INFO ] 2024-11-19 18:43:54.455 [main] TC02_LoginTest - **Finished the TC_02 Test**
+[INFO ] 2024-11-19 18:45:59.802 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[INFO ] 2024-11-19 18:46:01.225 [main] TC02_LoginTest - **Finished the TC_02 Test**
+[INFO ] 2024-11-19 18:47:17.284 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[INFO ] 2024-11-19 18:47:18.659 [main] TC02_LoginTest - **Finished the TC_02 Test**
+[DEBUG] 2024-11-19 18:49:18.605 [main] TestNG - suiteXmlPath: "E:\Java_Program\HybridAutomationFrameWork\master.xml"
+[TRACE] 2024-11-19 18:49:19.166 [main] Graph - [Graph] ADDING NODE BaseClass.setup(java.lang.String,java.lang.String)[pri:0, instance:null] -1422203584
+[TRACE] 2024-11-19 18:49:19.166 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-11-19 18:49:19.170 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-11-19 18:49:19.170 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-11-19 18:49:19.170 [main] Graph - [Graph] ====== END SORTED NODES
+[TRACE] 2024-11-19 18:49:19.173 [main] Graph - [Graph] ADDING NODE BaseClass.tear_down()[pri:0, instance:null] 1404639010
+[TRACE] 2024-11-19 18:49:19.173 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-11-19 18:49:19.173 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-11-19 18:49:19.173 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-11-19 18:49:19.173 [main] Graph - [Graph] ====== END SORTED NODES
+[TRACE] 2024-11-19 18:49:19.183 [main] Graph - [Graph] ADDING NODE TC02_LoginTest.verify_login()[pri:0, instance:testCases.TC02_LoginTest@3b0c9195] -766633107
+[TRACE] 2024-11-19 18:49:19.184 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-11-19 18:49:19.184 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-11-19 18:49:19.184 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-11-19 18:49:19.184 [main] Graph - [Graph] ====== END SORTED NODES
+[INFO ] 2024-11-19 18:49:19.193 [main] Utils - [TestNG] Running:
+  E:\Java_Program\HybridAutomationFrameWork\master.xml
+
+[INFO ] 2024-11-19 18:49:23.320 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[INFO ] 2024-11-19 18:49:25.334 [main] TC02_LoginTest - **Finished the TC_02 Test**
+[DEBUG] 2024-11-19 18:50:39.899 [main] TestNG - suiteXmlPath: "E:\Java_Program\HybridAutomationFrameWork\master.xml"
+[TRACE] 2024-11-19 18:50:40.466 [main] Graph - [Graph] ADDING NODE BaseClass.setup(java.lang.String,java.lang.String)[pri:0, instance:null] -1422203584
+[TRACE] 2024-11-19 18:50:40.467 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-11-19 18:50:40.470 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-11-19 18:50:40.471 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-11-19 18:50:40.471 [main] Graph - [Graph] ====== END SORTED NODES
+[TRACE] 2024-11-19 18:50:40.474 [main] Graph - [Graph] ADDING NODE BaseClass.tear_down()[pri:0, instance:null] 1404639010
+[TRACE] 2024-11-19 18:50:40.474 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-11-19 18:50:40.474 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-11-19 18:50:40.474 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-11-19 18:50:40.474 [main] Graph - [Graph] ====== END SORTED NODES
+[TRACE] 2024-11-19 18:50:40.487 [main] Graph - [Graph] ADDING NODE TC02_LoginTest.verify_login()[pri:0, instance:testCases.TC02_LoginTest@4cf8b2dc] -465945420
+[TRACE] 2024-11-19 18:50:40.487 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-11-19 18:50:40.487 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-11-19 18:50:40.487 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-11-19 18:50:40.487 [main] Graph - [Graph] ====== END SORTED NODES
+[INFO ] 2024-11-19 18:50:40.498 [main] Utils - [TestNG] Running:
+  E:\Java_Program\HybridAutomationFrameWork\master.xml
+
+[INFO ] 2024-11-19 18:50:44.307 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[DEBUG] 2024-11-19 18:52:07.901 [main] TestNG - suiteXmlPath: "E:\Java_Program\HybridAutomationFrameWork\master.xml"
+[TRACE] 2024-11-19 18:52:08.447 [main] Graph - [Graph] ADDING NODE BaseClass.setup(java.lang.String,java.lang.String)[pri:0, instance:null] -1422203584
+[TRACE] 2024-11-19 18:52:08.448 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-11-19 18:52:08.453 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-11-19 18:52:08.453 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-11-19 18:52:08.453 [main] Graph - [Graph] ====== END SORTED NODES
+[TRACE] 2024-11-19 18:52:08.456 [main] Graph - [Graph] ADDING NODE BaseClass.tear_down()[pri:0, instance:null] 1404639010
+[TRACE] 2024-11-19 18:52:08.456 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-11-19 18:52:08.456 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-11-19 18:52:08.457 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-11-19 18:52:08.457 [main] Graph - [Graph] ====== END SORTED NODES
+[TRACE] 2024-11-19 18:52:08.467 [main] Graph - [Graph] ADDING NODE TC02_LoginTest.verify_login()[pri:0, instance:testCases.TC02_LoginTest@366c4480] -844247464
+[TRACE] 2024-11-19 18:52:08.467 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-11-19 18:52:08.467 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-11-19 18:52:08.467 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-11-19 18:52:08.467 [main] Graph - [Graph] ====== END SORTED NODES
+[INFO ] 2024-11-19 18:52:08.476 [main] Utils - [TestNG] Running:
+  E:\Java_Program\HybridAutomationFrameWork\master.xml
+
+[INFO ] 2024-11-19 18:52:12.262 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[DEBUG] 2024-11-19 18:53:32.473 [main] TestNG - suiteXmlPath: "E:\Java_Program\HybridAutomationFrameWork\master.xml"
+[TRACE] 2024-11-19 18:53:33.050 [main] Graph - [Graph] ADDING NODE BaseClass.setup(java.lang.String,java.lang.String)[pri:0, instance:null] -1422203584
+[TRACE] 2024-11-19 18:53:33.051 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-11-19 18:53:33.055 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-11-19 18:53:33.055 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-11-19 18:53:33.055 [main] Graph - [Graph] ====== END SORTED NODES
+[TRACE] 2024-11-19 18:53:33.058 [main] Graph - [Graph] ADDING NODE BaseClass.tear_down()[pri:0, instance:null] 1404639010
+[TRACE] 2024-11-19 18:53:33.058 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-11-19 18:53:33.058 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-11-19 18:53:33.058 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-11-19 18:53:33.058 [main] Graph - [Graph] ====== END SORTED NODES
+[TRACE] 2024-11-19 18:53:33.068 [main] Graph - [Graph] ADDING NODE TC02_LoginTest.verify_login()[pri:0, instance:testCases.TC02_LoginTest@366c4480] -844247464
+[TRACE] 2024-11-19 18:53:33.068 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-11-19 18:53:33.068 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-11-19 18:53:33.069 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-11-19 18:53:33.069 [main] Graph - [Graph] ====== END SORTED NODES
+[INFO ] 2024-11-19 18:53:33.076 [main] Utils - [TestNG] Running:
+  E:\Java_Program\HybridAutomationFrameWork\master.xml
+
+[INFO ] 2024-11-19 18:53:36.870 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[DEBUG] 2024-11-19 19:02:16.588 [main] TestNG - suiteXmlPath: "E:\Java_Program\HybridAutomationFrameWork\master.xml"
+[TRACE] 2024-11-19 19:02:17.261 [main] Graph - [Graph] ADDING NODE BaseClass.setup(java.lang.String,java.lang.String)[pri:0, instance:null] -1422203584
+[TRACE] 2024-11-19 19:02:17.262 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-11-19 19:02:17.266 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-11-19 19:02:17.267 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-11-19 19:02:17.267 [main] Graph - [Graph] ====== END SORTED NODES
+[TRACE] 2024-11-19 19:02:17.269 [main] Graph - [Graph] ADDING NODE BaseClass.tear_down()[pri:0, instance:null] 1404639010
+[TRACE] 2024-11-19 19:02:17.269 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-11-19 19:02:17.269 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-11-19 19:02:17.269 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-11-19 19:02:17.269 [main] Graph - [Graph] ====== END SORTED NODES
+[TRACE] 2024-11-19 19:02:17.283 [main] Graph - [Graph] ADDING NODE TC02_LoginTest.verify_login()[pri:0, instance:testCases.TC02_LoginTest@3300f4fd] -901611819
+[TRACE] 2024-11-19 19:02:17.283 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-11-19 19:02:17.283 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-11-19 19:02:17.283 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-11-19 19:02:17.283 [main] Graph - [Graph] ====== END SORTED NODES
+[INFO ] 2024-11-19 19:02:17.291 [main] Utils - [TestNG] Running:
+  E:\Java_Program\HybridAutomationFrameWork\master.xml
+
+[INFO ] 2024-11-19 19:02:21.716 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[DEBUG] 2024-11-19 19:05:16.024 [main] TestNG - suiteXmlPath: "E:\Java_Program\HybridAutomationFrameWork\master.xml"
+[TRACE] 2024-11-19 19:05:16.573 [main] Graph - [Graph] ADDING NODE BaseClass.setup(java.lang.String,java.lang.String)[pri:0, instance:null] -1422203584
+[TRACE] 2024-11-19 19:05:16.574 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-11-19 19:05:16.578 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-11-19 19:05:16.579 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-11-19 19:05:16.579 [main] Graph - [Graph] ====== END SORTED NODES
+[TRACE] 2024-11-19 19:05:16.581 [main] Graph - [Graph] ADDING NODE BaseClass.tear_down()[pri:0, instance:null] 1404639010
+[TRACE] 2024-11-19 19:05:16.581 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-11-19 19:05:16.581 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-11-19 19:05:16.582 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-11-19 19:05:16.582 [main] Graph - [Graph] ====== END SORTED NODES
+[TRACE] 2024-11-19 19:05:16.592 [main] Graph - [Graph] ADDING NODE TC02_LoginTest.verify_login()[pri:0, instance:testCases.TC02_LoginTest@5829e4f4] -278171956
+[TRACE] 2024-11-19 19:05:16.592 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-11-19 19:05:16.593 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-11-19 19:05:16.593 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-11-19 19:05:16.593 [main] Graph - [Graph] ====== END SORTED NODES
+[INFO ] 2024-11-19 19:05:16.601 [main] Utils - [TestNG] Running:
+  E:\Java_Program\HybridAutomationFrameWork\master.xml
+
+[INFO ] 2024-11-19 19:05:20.523 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[DEBUG] 2024-11-19 19:05:45.382 [main] TestNG - suiteXmlPath: "E:\Java_Program\HybridAutomationFrameWork\master.xml"
+[TRACE] 2024-11-19 19:05:45.941 [main] Graph - [Graph] ADDING NODE BaseClass.setup(java.lang.String,java.lang.String)[pri:0, instance:null] -1422203584
+[TRACE] 2024-11-19 19:05:45.941 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-11-19 19:05:45.945 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-11-19 19:05:45.946 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-11-19 19:05:45.946 [main] Graph - [Graph] ====== END SORTED NODES
+[TRACE] 2024-11-19 19:05:45.948 [main] Graph - [Graph] ADDING NODE BaseClass.tear_down()[pri:0, instance:null] 1404639010
+[TRACE] 2024-11-19 19:05:45.948 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-11-19 19:05:45.948 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-11-19 19:05:45.948 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-11-19 19:05:45.949 [main] Graph - [Graph] ====== END SORTED NODES
+[TRACE] 2024-11-19 19:05:45.959 [main] Graph - [Graph] ADDING NODE TC02_LoginTest.verify_login()[pri:0, instance:testCases.TC02_LoginTest@3b0c9195] -766633107
+[TRACE] 2024-11-19 19:05:45.959 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-11-19 19:05:45.959 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-11-19 19:05:45.960 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-11-19 19:05:45.960 [main] Graph - [Graph] ====== END SORTED NODES
+[INFO ] 2024-11-19 19:05:45.968 [main] Utils - [TestNG] Running:
+  E:\Java_Program\HybridAutomationFrameWork\master.xml
+
+[INFO ] 2024-11-19 19:05:50.147 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[DEBUG] 2024-11-19 19:06:59.062 [main] TestNG - suiteXmlPath: "E:\Java_Program\HybridAutomationFrameWork\master.xml"
+[TRACE] 2024-11-19 19:06:59.615 [main] Graph - [Graph] ADDING NODE BaseClass.setup(java.lang.String,java.lang.String)[pri:0, instance:null] -1422203584
+[TRACE] 2024-11-19 19:06:59.615 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-11-19 19:06:59.619 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-11-19 19:06:59.619 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-11-19 19:06:59.619 [main] Graph - [Graph] ====== END SORTED NODES
+[TRACE] 2024-11-19 19:06:59.622 [main] Graph - [Graph] ADDING NODE BaseClass.tear_down()[pri:0, instance:null] 1404639010
+[TRACE] 2024-11-19 19:06:59.622 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-11-19 19:06:59.623 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-11-19 19:06:59.623 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-11-19 19:06:59.623 [main] Graph - [Graph] ====== END SORTED NODES
+[TRACE] 2024-11-19 19:06:59.634 [main] Graph - [Graph] ADDING NODE TC02_LoginTest.verify_login()[pri:0, instance:testCases.TC02_LoginTest@61c9c3fd] -116699691
+[TRACE] 2024-11-19 19:06:59.634 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-11-19 19:06:59.634 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-11-19 19:06:59.634 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-11-19 19:06:59.634 [main] Graph - [Graph] ====== END SORTED NODES
+[INFO ] 2024-11-19 19:06:59.644 [main] Utils - [TestNG] Running:
+  E:\Java_Program\HybridAutomationFrameWork\master.xml
+
+[INFO ] 2024-11-19 19:07:03.449 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[DEBUG] 2024-11-19 19:09:20.239 [main] TestNG - suiteXmlPath: "E:\Java_Program\HybridAutomationFrameWork\master.xml"
+[TRACE] 2024-11-19 19:09:20.773 [main] Graph - [Graph] ADDING NODE BaseClass.setup(java.lang.String,java.lang.String)[pri:0, instance:null] -1422203584
+[TRACE] 2024-11-19 19:09:20.774 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-11-19 19:09:20.778 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-11-19 19:09:20.778 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-11-19 19:09:20.778 [main] Graph - [Graph] ====== END SORTED NODES
+[TRACE] 2024-11-19 19:09:20.781 [main] Graph - [Graph] ADDING NODE BaseClass.tear_down()[pri:0, instance:null] 1404639010
+[TRACE] 2024-11-19 19:09:20.781 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-11-19 19:09:20.782 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-11-19 19:09:20.782 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-11-19 19:09:20.782 [main] Graph - [Graph] ====== END SORTED NODES
+[TRACE] 2024-11-19 19:09:20.793 [main] Graph - [Graph] ADDING NODE TC02_LoginTest.verify_login()[pri:0, instance:testCases.TC02_LoginTest@2c7b5824] -1011031556
+[TRACE] 2024-11-19 19:09:20.794 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-11-19 19:09:20.794 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-11-19 19:09:20.794 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-11-19 19:09:20.794 [main] Graph - [Graph] ====== END SORTED NODES
+[INFO ] 2024-11-19 19:09:20.805 [main] Utils - [TestNG] Running:
+  E:\Java_Program\HybridAutomationFrameWork\master.xml
+
+[INFO ] 2024-11-19 19:09:24.561 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[DEBUG] 2024-11-19 19:11:09.483 [main] TestNG - suiteXmlPath: "E:\Java_Program\HybridAutomationFrameWork\master.xml"
+[TRACE] 2024-11-19 19:11:10.035 [main] Graph - [Graph] ADDING NODE BaseClass.setup(java.lang.String,java.lang.String)[pri:0, instance:null] -1422203584
+[TRACE] 2024-11-19 19:11:10.036 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-11-19 19:11:10.041 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-11-19 19:11:10.041 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-11-19 19:11:10.041 [main] Graph - [Graph] ====== END SORTED NODES
+[TRACE] 2024-11-19 19:11:10.043 [main] Graph - [Graph] ADDING NODE BaseClass.tear_down()[pri:0, instance:null] 1404639010
+[TRACE] 2024-11-19 19:11:10.044 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-11-19 19:11:10.044 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-11-19 19:11:10.044 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-11-19 19:11:10.044 [main] Graph - [Graph] ====== END SORTED NODES
+[TRACE] 2024-11-19 19:11:10.054 [main] Graph - [Graph] ADDING NODE TC02_LoginTest.verify_login()[pri:0, instance:testCases.TC02_LoginTest@4bff64c2] -482283878
+[TRACE] 2024-11-19 19:11:10.054 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-11-19 19:11:10.054 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-11-19 19:11:10.054 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-11-19 19:11:10.054 [main] Graph - [Graph] ====== END SORTED NODES
+[INFO ] 2024-11-19 19:11:10.064 [main] Utils - [TestNG] Running:
+  E:\Java_Program\HybridAutomationFrameWork\master.xml
+
+[INFO ] 2024-11-19 19:11:14.041 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[DEBUG] 2024-11-19 19:12:43.385 [main] TestNG - suiteXmlPath: "E:\Java_Program\HybridAutomationFrameWork\master.xml"
+[TRACE] 2024-11-19 19:12:43.964 [main] Graph - [Graph] ADDING NODE BaseClass.setup(java.lang.String,java.lang.String)[pri:0, instance:null] -1422203584
+[TRACE] 2024-11-19 19:12:43.964 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-11-19 19:12:43.968 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-11-19 19:12:43.969 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-11-19 19:12:43.969 [main] Graph - [Graph] ====== END SORTED NODES
+[TRACE] 2024-11-19 19:12:43.971 [main] Graph - [Graph] ADDING NODE BaseClass.tear_down()[pri:0, instance:null] 1404639010
+[TRACE] 2024-11-19 19:12:43.971 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-11-19 19:12:43.971 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-11-19 19:12:43.971 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-11-19 19:12:43.971 [main] Graph - [Graph] ====== END SORTED NODES
+[TRACE] 2024-11-19 19:12:43.982 [main] Graph - [Graph] ADDING NODE TC02_LoginTest.verify_login()[pri:0, instance:testCases.TC02_LoginTest@2d36e77e] -998739626
+[TRACE] 2024-11-19 19:12:43.982 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-11-19 19:12:43.983 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-11-19 19:12:43.983 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-11-19 19:12:43.983 [main] Graph - [Graph] ====== END SORTED NODES
+[INFO ] 2024-11-19 19:12:43.991 [main] Utils - [TestNG] Running:
+  E:\Java_Program\HybridAutomationFrameWork\master.xml
+
+[INFO ] 2024-11-19 19:12:48.167 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[DEBUG] 2024-11-19 19:15:04.614 [main] TestNG - suiteXmlPath: "E:\Java_Program\HybridAutomationFrameWork\master.xml"
+[TRACE] 2024-11-19 19:15:05.162 [main] Graph - [Graph] ADDING NODE BaseClass.setup(java.lang.String,java.lang.String)[pri:0, instance:null] -1422203584
+[TRACE] 2024-11-19 19:15:05.163 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-11-19 19:15:05.167 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-11-19 19:15:05.167 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-11-19 19:15:05.167 [main] Graph - [Graph] ====== END SORTED NODES
+[TRACE] 2024-11-19 19:15:05.170 [main] Graph - [Graph] ADDING NODE BaseClass.tear_down()[pri:0, instance:null] 1404639010
+[TRACE] 2024-11-19 19:15:05.170 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-11-19 19:15:05.170 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-11-19 19:15:05.170 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-11-19 19:15:05.171 [main] Graph - [Graph] ====== END SORTED NODES
+[TRACE] 2024-11-19 19:15:05.182 [main] Graph - [Graph] ADDING NODE TC02_LoginTest.verify_login()[pri:0, instance:testCases.TC02_LoginTest@5829e4f4] -278171956
+[TRACE] 2024-11-19 19:15:05.182 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-11-19 19:15:05.183 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-11-19 19:15:05.183 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-11-19 19:15:05.183 [main] Graph - [Graph] ====== END SORTED NODES
+[INFO ] 2024-11-19 19:15:05.191 [main] Utils - [TestNG] Running:
+  E:\Java_Program\HybridAutomationFrameWork\master.xml
+
+[INFO ] 2024-11-19 19:15:09.235 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[DEBUG] 2024-11-19 21:02:47.549 [main] TestNG - suiteXmlPath: "E:\Java_Program\HybridAutomationFrameWork\master.xml"
+[TRACE] 2024-11-19 21:02:48.227 [main] Graph - [Graph] ADDING NODE BaseClass.setup(java.lang.String,java.lang.String)[pri:0, instance:null] -1422203584
+[TRACE] 2024-11-19 21:02:48.228 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-11-19 21:02:48.231 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-11-19 21:02:48.232 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-11-19 21:02:48.232 [main] Graph - [Graph] ====== END SORTED NODES
+[TRACE] 2024-11-19 21:02:48.233 [main] Graph - [Graph] ADDING NODE BaseClass.tear_down()[pri:0, instance:null] 1404639010
+[TRACE] 2024-11-19 21:02:48.233 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-11-19 21:02:48.234 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-11-19 21:02:48.234 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-11-19 21:02:48.234 [main] Graph - [Graph] ====== END SORTED NODES
+[TRACE] 2024-11-19 21:02:48.247 [main] Graph - [Graph] ADDING NODE TC03_LoginDataDrivenTest.verify_login_with_DDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC03_LoginDataDrivenTest@260e86a1] 54647508
+[TRACE] 2024-11-19 21:02:48.248 [main] Graph - [Graph] ================ SORTING
+[TRACE] 2024-11-19 21:02:48.248 [main] Graph - [Graph] =============== DONE SORTING
+[TRACE] 2024-11-19 21:02:48.248 [main] Graph - [Graph] ====== SORTED NODES
+[TRACE] 2024-11-19 21:02:48.248 [main] Graph - [Graph] ====== END SORTED NODES
+[INFO ] 2024-11-19 21:02:48.258 [main] Utils - [TestNG] Running:
+  E:\Java_Program\HybridAutomationFrameWork\master.xml
+
+[DEBUG] 2024-11-19 21:02:53.644 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-11-19 21:02:53.651 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-11-19 21:02:53.652 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[TRACE] 2024-11-19 21:02:53.905 [main] XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-11-19 21:02:53.909 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-11-19 21:02:53.910 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-11-19 21:02:53.910 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-11-19 21:02:53.911 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-11-19 21:02:53.911 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-11-19 21:02:53.926 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-11-19 21:02:53.927 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-11-19 21:02:53.932 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-11-19 21:02:53.933 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-11-19 21:02:53.934 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-11-19 21:02:53.934 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-11-19 21:02:53.935 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-11-19 21:02:53.936 [main] XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-11-19 21:02:53.995 [main] XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-11-19 21:02:53.996 [main] XBeanDebug - Resolving type for handle themefd26doctype
+[TRACE] 2024-11-19 21:02:54.080 [main] XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+[TRACE] 2024-11-19 21:02:54.089 [main] XBeanDebug - Resolving type for handle ctstylesheet4257type
+[TRACE] 2024-11-19 21:02:54.095 [main] XBeanDebug - Resolving type for handle ctfonts6623type
+[TRACE] 2024-11-19 21:02:54.099 [main] XBeanDebug - Resolving type for handle ctfont14d8type
+[TRACE] 2024-11-19 21:02:54.105 [main] XBeanDebug - Resolving type for handle ctfills2c6ftype
+[TRACE] 2024-11-19 21:02:54.108 [main] XBeanDebug - Resolving type for handle ctfill550ctype
+[TRACE] 2024-11-19 21:02:54.111 [main] XBeanDebug - Resolving type for handle ctborders0d66type
+[TRACE] 2024-11-19 21:02:54.114 [main] XBeanDebug - Resolving type for handle ctborderf935type
+[TRACE] 2024-11-19 21:02:54.124 [main] XBeanDebug - Resolving type for handle ctcellxfs1322type
+[TRACE] 2024-11-19 21:02:54.134 [main] XBeanDebug - Resolving type for handle ctxf97f7type
+[TRACE] 2024-11-19 21:02:54.142 [main] XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE] 2024-11-19 21:02:54.149 [main] XBeanDebug - Resolving type for handle ctdxfsb26atype
+[TRACE] 2024-11-19 21:02:54.152 [main] XBeanDebug - Resolving type for handle cttablestyles872ftype
+[TRACE] 2024-11-19 21:02:54.155 [main] XBeanDebug - Resolving type for handle sstf81fdoctype
+[TRACE] 2024-11-19 21:02:54.159 [main] XBeanDebug - Resolving type for handle ctsst44f3type
+[TRACE] 2024-11-19 21:02:54.169 [main] XBeanDebug - Resolving type for handle ctrsta472type
+[DEBUG] 2024-11-19 21:02:54.185 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2024-11-19 21:02:54.187 [main] XBeanDebug - Resolving type for handle workbookec17doctype
+[TRACE] 2024-11-19 21:02:54.191 [main] XBeanDebug - Resolving type for handle ctworkbook83c3type
+[TRACE] 2024-11-19 21:02:54.198 [main] XBeanDebug - Resolving type for handle ctsheets49fdtype
+[TRACE] 2024-11-19 21:02:54.201 [main] XBeanDebug - Resolving type for handle ctsheet4dbetype
+[TRACE] 2024-11-19 21:02:54.204 [main] XBeanDebug - Resolving type for handle strelationshipid1e94type
+[TRACE] 2024-11-19 21:02:54.206 [main] XBeanDebug - Resolving type for handle worksheetf539doctype
+[TRACE] 2024-11-19 21:02:54.213 [main] XBeanDebug - Resolving type for handle ctworksheet530dtype
+[TRACE] 2024-11-19 21:02:54.234 [main] XBeanDebug - Resolving type for handle ctcols627ctype
+[TRACE] 2024-11-19 21:02:54.240 [main] XBeanDebug - Resolving type for handle ctcola95ftype
+[TRACE] 2024-11-19 21:02:54.268 [main] XBeanDebug - Resolving type for handle ctsheetdata8408type
+[TRACE] 2024-11-19 21:02:54.272 [main] XBeanDebug - Resolving type for handle ctrowdd39type
+[TRACE] 2024-11-19 21:02:54.281 [main] XBeanDebug - Resolving type for handle ctcell842btype
+[TRACE] 2024-11-19 21:02:54.293 [main] XBeanDebug - Resolving type for handle stcellrefe4e0type
+[TRACE] 2024-11-19 21:02:54.307 [main] XBeanDebug - Resolving type for handle cthyperlinks6416type
+[TRACE] 2024-11-19 21:02:54.309 [main] XBeanDebug - Resolving type for handle cthyperlink0c85type
+[TRACE] 2024-11-19 21:02:54.317 [main] XBeanDebug - Resolving type for handle stxstringf179type
+[DEBUG] 2024-11-19 21:02:54.328 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-11-19 21:02:54.329 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-11-19 21:02:54.330 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-11-19 21:02:54.351 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-11-19 21:02:54.368 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-11-19 21:02:54.371 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-11-19 21:02:54.373 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-11-19 21:02:54.409 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2024-11-19 21:02:54.419 [main] XBeanDebug - Resolving type for handle stcelltypebf95type
+[DEBUG] 2024-11-19 21:02:54.437 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-11-19 21:02:54.438 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-11-19 21:02:54.439 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-11-19 21:02:54.451 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-11-19 21:02:54.466 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-11-19 21:02:54.467 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-11-19 21:02:54.468 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-11-19 21:02:54.480 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-11-19 21:02:54.493 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-11-19 21:02:54.493 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-11-19 21:02:54.494 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-11-19 21:02:54.506 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-11-19 21:02:54.520 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-11-19 21:02:54.522 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-11-19 21:02:54.523 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-11-19 21:02:54.533 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-11-19 21:02:54.546 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-11-19 21:02:54.547 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-11-19 21:02:54.548 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-11-19 21:02:54.559 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-11-19 21:02:54.571 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-11-19 21:02:54.572 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-11-19 21:02:54.573 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-11-19 21:02:54.584 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-11-19 21:02:54.595 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-11-19 21:02:54.596 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-11-19 21:02:54.597 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-11-19 21:02:54.605 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-11-19 21:02:54.615 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-11-19 21:02:54.615 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-11-19 21:02:54.616 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-11-19 21:02:54.628 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-11-19 21:02:54.645 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-11-19 21:02:54.647 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-11-19 21:02:54.648 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-11-19 21:02:54.659 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-11-19 21:02:54.671 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-11-19 21:02:54.672 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-11-19 21:02:54.672 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-11-19 21:02:54.680 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-11-19 21:02:54.690 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-11-19 21:02:54.691 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-11-19 21:02:54.692 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-11-19 21:02:54.699 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-11-19 21:02:54.709 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-11-19 21:02:54.709 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-11-19 21:02:54.710 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-11-19 21:02:54.718 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-11-19 21:02:54.728 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-11-19 21:02:54.729 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-11-19 21:02:54.730 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-11-19 21:02:54.742 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[DEBUG] 2024-11-19 21:02:54.753 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-11-19 21:02:54.754 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-11-19 21:02:54.754 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-11-19 21:02:54.762 [main] POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-11-19 21:02:54.779 [main] TC03_LoginDataDrivenTest - **Started TC_03 Login Data Driven test**
+[INFO ] 2024-11-19 21:02:56.741 [main] TC03_LoginDataDrivenTest - **Test Finished**
+[INFO ] 2024-11-19 21:02:56.747 [main] TC03_LoginDataDrivenTest - **Started TC_03 Login Data Driven test**
+[INFO ] 2024-11-19 21:03:07.871 [main] TC03_LoginDataDrivenTest - **Test Finished**
+[INFO ] 2024-11-19 21:03:07.872 [main] TC03_LoginDataDrivenTest - **Started TC_03 Login Data Driven test**
+[INFO ] 2024-11-19 21:03:18.942 [main] TC03_LoginDataDrivenTest - **Test Finished**
+[INFO ] 2024-11-19 21:03:18.943 [main] TC03_LoginDataDrivenTest - **Started TC_03 Login Data Driven test**
+[INFO ] 2024-11-19 21:03:29.867 [main] TC03_LoginDataDrivenTest - **Test Finished**
+[INFO ] 2024-11-19 21:03:29.870 [main] TC03_LoginDataDrivenTest - **Started TC_03 Login Data Driven test**
+[INFO ] 2024-11-19 21:03:31.630 [main] TC03_LoginDataDrivenTest - **Test Finished**

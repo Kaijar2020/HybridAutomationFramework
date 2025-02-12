@@ -1,0 +1,70 @@
+[DEBUG] 2024-11-21 17:21:13.856 [main] TestNG - suiteXmlPath: "E:\Java_Program\HybridAutomationFrameWork\grouping.xml"
+[INFO ] 2024-11-21 17:21:14.921 [main] Utils - [TestNG] Running:
+  E:\Java_Program\HybridAutomationFrameWork\grouping.xml
+
+[INFO ] 2024-11-21 17:21:20.242 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[INFO ] 2024-11-21 17:21:21.970 [main] TC02_LoginTest - **Finished the TC_02 Test**
+[DEBUG] 2024-11-21 19:21:58.671 [main] TestNG - suiteXmlPath: "E:\Java_Program\HybridAutomationFrameWork\grouping.xml"
+[INFO ] 2024-11-21 19:21:59.363 [main] Utils - [TestNG] Running:
+  E:\Java_Program\HybridAutomationFrameWork\grouping.xml
+
+[INFO ] 2024-11-21 19:22:04.628 [main] TC01_AccountRegTest - ******Starting The Test Cases*******
+[INFO ] 2024-11-21 19:22:04.763 [main] TC01_AccountRegTest - **Click on My Account Link**
+[INFO ] 2024-11-21 19:22:05.438 [main] TC01_AccountRegTest - **Click on Register**
+[INFO ] 2024-11-21 19:22:05.441 [main] TC01_AccountRegTest - **Providing Customer Details**
+[INFO ] 2024-11-21 19:22:06.932 [main] TC01_AccountRegTest - ***Validating expected message.***
+[INFO ] 2024-11-21 19:22:06.986 [main] TC01_AccountRegTest - ***Test is Finished***
+[INFO ] 2024-11-21 19:22:10.716 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[INFO ] 2024-11-21 19:22:12.191 [main] TC02_LoginTest - **Finished the TC_02 Test**
+[DEBUG] 2024-11-21 19:24:00.183 [main] TestNG - suiteXmlPath: "E:\Java_Program\HybridAutomationFrameWork\grouping.xml"
+[INFO ] 2024-11-21 19:24:00.880 [main] Utils - [TestNG] Running:
+  E:\Java_Program\HybridAutomationFrameWork\grouping.xml
+
+[INFO ] 2024-11-21 19:24:05.515 [main] TC01_AccountRegTest - ******Starting The Test Cases*******
+[INFO ] 2024-11-21 19:24:05.640 [main] TC01_AccountRegTest - **Click on My Account Link**
+[INFO ] 2024-11-21 19:24:06.283 [main] TC01_AccountRegTest - **Click on Register**
+[INFO ] 2024-11-21 19:24:06.291 [main] TC01_AccountRegTest - **Providing Customer Details**
+[INFO ] 2024-11-21 19:24:07.753 [main] TC01_AccountRegTest - ***Validating expected message.***
+[INFO ] 2024-11-21 19:24:07.815 [main] TC01_AccountRegTest - ***Test is Finished***
+[INFO ] 2024-11-21 19:24:11.399 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[DEBUG] 2024-11-21 19:35:39.010 [main] TestNG - suiteXmlPath: "E:\Java_Program\HybridAutomationFrameWork\master.xml"
+[INFO ] 2024-11-21 19:35:39.568 [main] Utils - [TestNG] Running:
+  E:\Java_Program\HybridAutomationFrameWork\master.xml
+
+[INFO ] 2024-11-21 19:35:43.832 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[INFO ] 2024-11-21 19:35:45.362 [main] TC02_LoginTest - **Finished the TC_02 Test**
+[DEBUG] 2024-11-21 19:38:10.554 [main] TestNG - suiteXmlPath: "E:\Java_Program\HybridAutomationFrameWork\master.xml"
+[INFO ] 2024-11-21 19:38:11.107 [main] Utils - [TestNG] Running:
+  E:\Java_Program\HybridAutomationFrameWork\master.xml
+
+[INFO ] 2024-11-21 19:38:15.705 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[INFO ] 2024-11-21 19:38:17.248 [main] TC02_LoginTest - **Finished the TC_02 Test**
+[DEBUG] 2024-11-21 19:39:42.457 [main] TestNG - suiteXmlPath: "E:\Java_Program\HybridAutomationFrameWork\cross-browser.xml"
+[INFO ] 2024-11-21 19:39:43.025 [main] Utils - [TestNG] Running:
+  E:\Java_Program\HybridAutomationFrameWork\cross-browser.xml
+
+[INFO ] 2024-11-21 19:39:48.406 [TestNG-tests-1] TC01_AccountRegTest - ******Starting The Test Cases*******
+[INFO ] 2024-11-21 19:39:48.408 [TestNG-tests-3] TC01_AccountRegTest - ******Starting The Test Cases*******
+[INFO ] 2024-11-21 19:39:48.584 [TestNG-tests-3] TC01_AccountRegTest - **Click on My Account Link**
+[INFO ] 2024-11-21 19:39:48.667 [TestNG-tests-1] TC01_AccountRegTest - **Click on My Account Link**
+[INFO ] 2024-11-21 19:39:51.820 [TestNG-tests-2] TC01_AccountRegTest - ******Starting The Test Cases*******
+[INFO ] 2024-11-21 19:39:52.122 [TestNG-tests-2] TC01_AccountRegTest - **Click on My Account Link**
+[INFO ] 2024-11-21 19:39:52.859 [TestNG-tests-2] TC01_AccountRegTest - **Click on Register**
+[INFO ] 2024-11-21 19:39:52.863 [TestNG-tests-2] TC01_AccountRegTest - **Providing Customer Details**
+[INFO ] 2024-11-21 19:39:53.997 [TestNG-tests-2] TC01_AccountRegTest - ***Validating expected message.***
+[INFO ] 2024-11-21 19:39:54.030 [TestNG-tests-2] TC01_AccountRegTest - ***Test is Finished***
+[ERROR] 2024-11-21 19:39:58.748 [TestNG-tests-3] TC01_AccountRegTest - **Test Failed**
+[DEBUG] 2024-11-21 19:39:58.748 [TestNG-tests-3] TC01_AccountRegTest - ***The Debug Logs..***
+[ERROR] 2024-11-21 19:40:08.755 [TestNG-tests-1] TC01_AccountRegTest - **Test Failed**
+[DEBUG] 2024-11-21 19:40:08.755 [TestNG-tests-1] TC01_AccountRegTest - ***The Debug Logs..***
+[DEBUG] 2024-11-21 20:02:12.697 [main] TestNG - suiteXmlPath: "E:\Java_Program\HybridAutomationFrameWork\master.xml"
+[INFO ] 2024-11-21 20:02:13.393 [main] Utils - [TestNG] Running:
+  E:\Java_Program\HybridAutomationFrameWork\master.xml
+
+[INFO ] 2024-11-21 20:02:18.044 [main] TC01_AccountRegTest - ******Starting The Test Cases*******
+[INFO ] 2024-11-21 20:02:18.220 [main] TC01_AccountRegTest - **Click on My Account Link**
+[INFO ] 2024-11-21 20:02:18.895 [main] TC01_AccountRegTest - **Click on Register**
+[INFO ] 2024-11-21 20:02:18.896 [main] TC01_AccountRegTest - **Providing Customer Details**
+[INFO ] 2024-11-21 20:02:20.267 [main] TC01_AccountRegTest - ***Validating expected message.***
+[INFO ] 2024-11-21 20:02:20.324 [main] TC01_AccountRegTest - ***Test is Finished***
+[INFO ] 2024-11-21 20:02:23.848 [main] TC02_LoginTest - **TC_02***Login Test Started***

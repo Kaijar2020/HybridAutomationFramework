@@ -1,0 +1,94 @@
+[DEBUG] 2024-11-20 14:30:07.522 [main] TestNG - suiteXmlPath: "E:\Java_Program\HybridAutomationFrameWork\master.xml"
+[INFO ] 2024-11-20 14:30:08.101 [main] Utils - [TestNG] Running:
+  E:\Java_Program\HybridAutomationFrameWork\master.xml
+
+[INFO ] 2024-11-20 14:30:15.452 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[DEBUG] 2024-11-20 14:30:44.955 [main] TestNG - suiteXmlPath: "E:\Java_Program\HybridAutomationFrameWork\master.xml"
+[INFO ] 2024-11-20 14:30:45.499 [main] Utils - [TestNG] Running:
+  E:\Java_Program\HybridAutomationFrameWork\master.xml
+
+[INFO ] 2024-11-20 14:30:49.283 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[DEBUG] 2024-11-20 14:31:38.766 [main] TestNG - suiteXmlPath: "E:\Java_Program\HybridAutomationFrameWork\master.xml"
+[INFO ] 2024-11-20 14:31:39.307 [main] Utils - [TestNG] Running:
+  E:\Java_Program\HybridAutomationFrameWork\master.xml
+
+[INFO ] 2024-11-20 14:31:43.082 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[DEBUG] 2024-11-20 14:32:23.956 [main] TestNG - suiteXmlPath: "E:\Java_Program\HybridAutomationFrameWork\master.xml"
+[INFO ] 2024-11-20 14:32:24.513 [main] Utils - [TestNG] Running:
+  E:\Java_Program\HybridAutomationFrameWork\master.xml
+
+[INFO ] 2024-11-20 14:32:28.272 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[DEBUG] 2024-11-20 14:38:32.161 [main] TestNG - suiteXmlPath: "E:\Java_Program\HybridAutomationFrameWork\master.xml"
+[INFO ] 2024-11-20 14:38:32.700 [main] Utils - [TestNG] Running:
+  E:\Java_Program\HybridAutomationFrameWork\master.xml
+
+[INFO ] 2024-11-20 14:38:36.757 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[DEBUG] 2024-11-20 14:41:28.028 [main] TestNG - suiteXmlPath: "E:\Java_Program\HybridAutomationFrameWork\master.xml"
+[INFO ] 2024-11-20 14:41:28.566 [main] Utils - [TestNG] Running:
+  E:\Java_Program\HybridAutomationFrameWork\master.xml
+
+[INFO ] 2024-11-20 14:41:32.426 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[DEBUG] 2024-11-20 14:42:46.867 [main] TestNG - suiteXmlPath: "E:\Java_Program\HybridAutomationFrameWork\master.xml"
+[INFO ] 2024-11-20 14:42:47.400 [main] Utils - [TestNG] Running:
+  E:\Java_Program\HybridAutomationFrameWork\master.xml
+
+[DEBUG] 2024-11-20 14:44:24.166 [main] TestNG - suiteXmlPath: "E:\Java_Program\HybridAutomationFrameWork\master.xml"
+[INFO ] 2024-11-20 14:44:24.698 [main] Utils - [TestNG] Running:
+  E:\Java_Program\HybridAutomationFrameWork\master.xml
+
+[INFO ] 2024-11-20 14:44:28.459 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[DEBUG] 2024-11-20 14:45:09.151 [main] TestNG - suiteXmlPath: "E:\Java_Program\HybridAutomationFrameWork\master.xml"
+[INFO ] 2024-11-20 14:45:09.688 [main] Utils - [TestNG] Running:
+  E:\Java_Program\HybridAutomationFrameWork\master.xml
+
+[INFO ] 2024-11-20 14:45:13.422 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[DEBUG] 2024-11-20 14:50:03.419 [main] TestNG - suiteXmlPath: "E:\Java_Program\HybridAutomationFrameWork\master.xml"
+[INFO ] 2024-11-20 14:50:03.980 [main] Utils - [TestNG] Running:
+  E:\Java_Program\HybridAutomationFrameWork\master.xml
+
+[INFO ] 2024-11-20 14:50:08.021 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[DEBUG] 2024-11-20 14:54:20.033 [main] TestNG - suiteXmlPath: "E:\Java_Program\HybridAutomationFrameWork\master.xml"
+[INFO ] 2024-11-20 14:54:20.579 [main] Utils - [TestNG] Running:
+  E:\Java_Program\HybridAutomationFrameWork\master.xml
+
+[INFO ] 2024-11-20 14:54:24.808 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[DEBUG] 2024-11-20 14:54:49.787 [main] TestNG - suiteXmlPath: "E:\Java_Program\HybridAutomationFrameWork\master.xml"
+[INFO ] 2024-11-20 14:54:50.334 [main] Utils - [TestNG] Running:
+  E:\Java_Program\HybridAutomationFrameWork\master.xml
+
+[INFO ] 2024-11-20 14:54:54.186 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[DEBUG] 2024-11-20 14:56:12.339 [main] TestNG - suiteXmlPath: "E:\Java_Program\HybridAutomationFrameWork\master.xml"
+[INFO ] 2024-11-20 14:56:12.876 [main] Utils - [TestNG] Running:
+  E:\Java_Program\HybridAutomationFrameWork\master.xml
+
+[INFO ] 2024-11-20 14:56:16.694 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[DEBUG] 2024-11-20 14:57:08.410 [main] TestNG - suiteXmlPath: "E:\Java_Program\HybridAutomationFrameWork\master.xml"
+[INFO ] 2024-11-20 14:57:08.947 [main] Utils - [TestNG] Running:
+  E:\Java_Program\HybridAutomationFrameWork\master.xml
+
+[INFO ] 2024-11-20 14:57:12.662 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[DEBUG] 2024-11-20 15:27:35.103 [main] TestNG - suiteXmlPath: "E:\Java_Program\HybridAutomationFrameWork\master.xml"
+[INFO ] 2024-11-20 15:27:35.740 [main] Utils - [TestNG] Running:
+  E:\Java_Program\HybridAutomationFrameWork\master.xml
+
+[INFO ] 2024-11-20 15:27:39.842 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[DEBUG] 2024-11-20 16:37:02.882 [main] TestNG - suiteXmlPath: "E:\Java_Program\HybridAutomationFrameWork\grouping.xml"
+[INFO ] 2024-11-20 16:37:03.617 [main] Utils - [TestNG] Running:
+  E:\Java_Program\HybridAutomationFrameWork\grouping.xml
+
+[DEBUG] 2024-11-20 16:37:56.759 [main] TestNG - suiteXmlPath: "E:\Java_Program\HybridAutomationFrameWork\grouping.xml"
+[INFO ] 2024-11-20 16:37:57.346 [main] Utils - [TestNG] Running:
+  E:\Java_Program\HybridAutomationFrameWork\grouping.xml
+
+[DEBUG] 2024-11-20 16:38:40.696 [main] TestNG - suiteXmlPath: "E:\Java_Program\HybridAutomationFrameWork\grouping.xml"
+[INFO ] 2024-11-20 16:38:41.271 [main] Utils - [TestNG] Running:
+  E:\Java_Program\HybridAutomationFrameWork\grouping.xml
+
+[INFO ] 2024-11-20 16:38:46.039 [main] TC01_AccountRegTest - ******Starting The Test Cases*******
+[INFO ] 2024-11-20 16:38:46.181 [main] TC01_AccountRegTest - **Click on My Account Link**
+[INFO ] 2024-11-20 16:38:46.834 [main] TC01_AccountRegTest - **Click on Register**
+[INFO ] 2024-11-20 16:38:46.837 [main] TC01_AccountRegTest - **Providing Customer Details**
+[INFO ] 2024-11-20 16:38:48.490 [main] TC01_AccountRegTest - ***Validating expected message.***
+[INFO ] 2024-11-20 16:38:48.551 [main] TC01_AccountRegTest - ***Test is Finished***
+[INFO ] 2024-11-20 16:38:52.113 [main] TC02_LoginTest - **TC_02***Login Test Started***
+[INFO ] 2024-11-20 16:38:53.621 [main] TC02_LoginTest - **Finished the TC_02 Test**
